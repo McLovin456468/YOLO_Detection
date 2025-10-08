@@ -1,0 +1,8 @@
+names:
+- helmet
+- head
+- person
+nc: 3
+test: C:/Users/admi/PycharmProjects/PythonProject14/dataset/images/images/test
+train: C:/Users/admin/PycharmProjects/PythonProject14/dataset/images/images/train
+val: C:/Users/admin/PycharmProjects/PythonProject14/dataset/images/images/val
